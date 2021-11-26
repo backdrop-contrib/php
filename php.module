@@ -126,7 +126,7 @@ else {
     return $output;
   }
   else {
-    return t('You may post PHP code. You should include &lt;?php ?&gt; tags.');
+    return t('You may post PHP code. You should include &lt;?php ?&gt; tags. [USE WITH CAUTION]');
   }
 }
 

@@ -13,7 +13,7 @@ We have no plans to release this module and make it available through the
 project installer. Anyone using this module should download it from Github
 and install it manually. 
 
-If anyone has idea on how to make this module less insecure, we welcome them. 
+If anyone has ideas on how to make this module less insecure, we welcome them. 
 
 Pull Requests are welcome.
 

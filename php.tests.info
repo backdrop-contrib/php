@@ -1,0 +1,18 @@
+[PHPTestCase]
+name = PHPTestCase
+description = PHPTestCase
+group = php
+file = php.test
+
+[PHPFilterTestCase]
+name = PHP filter functionality
+description = Make sure that PHP filter properly evaluates PHP code when enabled.
+group = PHP
+file = php.test
+
+[PHPAccessTestCase]
+name = PHP filter access check
+description = Make sure that users who don't have access to the PHP filter can't see it.
+group = PHP
+file = php.test
+

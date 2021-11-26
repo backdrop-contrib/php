@@ -1,0 +1,6 @@
+name = PHP filter
+description = Allows embedded PHP code/snippets to be evaluated.
+package = Core
+version = VERSION
+backdrop = 1.x
+type = module
